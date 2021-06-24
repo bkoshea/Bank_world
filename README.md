@@ -1,4 +1,4 @@
-# VeraDemo - Blab-a-Gag
+# Blab-a-Gag
 
 ## About
 
