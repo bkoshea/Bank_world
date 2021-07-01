@@ -108,7 +108,7 @@
 		<dependency>
 			<groupId>org.keycloak</groupId>
 			<artifactId>keycloak-saml-core</artifactId>
-			<version>2.5.5.Final</version>
+			<version>8.0.0</version>
 		</dependency>
 
 		<dependency>
